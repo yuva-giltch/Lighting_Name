@@ -1,0 +1,16 @@
+h2{
+    position: relation;
+    font-size: 7em;
+    letter-spacing: 10px;
+    color: gray;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(158, 139, 139, 0.533));
+    line-height: 0.7em;
+    outline: yellow;
+    animation: animate 60s linear infinite;
+}
+body{
+    background-color: black;
+}
